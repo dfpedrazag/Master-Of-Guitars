@@ -18,15 +18,27 @@ Una comunidad que se vería afectada serían los tutores puesto que esta herrami
 #Características
 
 *Interacción del aplicativo con el usuario en tiempo real.
+
 *Reconocedor de notas.
+
 *Evaluador de notas.
+
 *Seguimiento a la evolución del usuario.
+
 *Ofrecer diferentes niveles de dificultad para incentivar el progreso.
+
 *Tener disponible a un tutor de manera continua indefinida.
 
 #Requerimientos
 
 *OS: Multiplataforma
+
 *300 Mb de Espacio en disco (herramienta y proyecto)
+
 *Guitarra electrica.
+
 *Conector guitarra - entrada computadora.
+
+#Demo
+
+<img height ="500" src ="fig/afin.jpg">
